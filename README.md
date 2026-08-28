@@ -34,7 +34,7 @@ The current first-party checksum is also published at
 <https://cadre.cam/CADRE.dmg.sha256>.
 
 The immutable current release record is
-<https://github.com/ArthurBrioche/cutro-releases/releases/tag/v1.0.0-rc.32>.
+<https://github.com/ArthurBrioche/cutro-releases/releases/tag/v1.0.0-rc.33>.
 Its versioned disk image is the same signed and notarized artifact installed by
 this cask.
 
