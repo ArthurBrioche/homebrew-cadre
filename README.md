@@ -21,7 +21,7 @@ brew install --cask cadre
 ```
 
 Cadre currently requires Apple Silicon and macOS 13 or later. The tap follows
-Cadre's public release channel, which is currently a release candidate.
+Cadre's stable public release channel.
 
 ## Verify
 
@@ -34,7 +34,7 @@ The current first-party checksum is also published at
 <https://cadre.cam/CADRE.dmg.sha256>.
 
 The immutable current release record is
-<https://github.com/ArthurBrioche/cutro-releases/releases/tag/v1.0.0-rc.35>.
+<https://github.com/ArthurBrioche/cutro-releases/releases/tag/v1.0.1>.
 Its versioned disk image is the same signed and notarized artifact installed by
 this cask.
 
