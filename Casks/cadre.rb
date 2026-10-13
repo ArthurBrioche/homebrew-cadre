@@ -1,6 +1,6 @@
 cask "cadre" do
-  version "1.2.5"
-  sha256 "c9871bce56016dbec596d391eaa7219fab6a16bdf3f8e351b131cacc8751b609"
+  version "1.2.6"
+  sha256 "6537177b7eb0dbdd168acf59e45232f88c692b7f5236a57e410dd942692b7c33"
 
   url "https://github.com/ArthurBrioche/cutro-releases/releases/download/v#{version}/CADRE.dmg",
       verified: "github.com/ArthurBrioche/cutro-releases/"
